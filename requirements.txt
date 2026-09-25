@@ -1,5 +1,0 @@
-gradio
-requests
-pandas
-scikit-learn
-numpy
